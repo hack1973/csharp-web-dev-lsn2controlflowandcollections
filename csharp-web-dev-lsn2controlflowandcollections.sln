@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPractice", "StringPra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPractice", "ListPractice\ListPractice.csproj", "{387C7FB9-40CA-4805-945C-820E0254A884}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryPractice", "Dictionary Practice\DictionaryPractice.csproj", "{95A19F19-FFF3-434E-91DD-AB5B32543C64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{387C7FB9-40CA-4805-945C-820E0254A884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{387C7FB9-40CA-4805-945C-820E0254A884}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{387C7FB9-40CA-4805-945C-820E0254A884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A19F19-FFF3-434E-91DD-AB5B32543C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A19F19-FFF3-434E-91DD-AB5B32543C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A19F19-FFF3-434E-91DD-AB5B32543C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A19F19-FFF3-434E-91DD-AB5B32543C64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -17,14 +17,6 @@ namespace ListPractice
             string userLength = Console.ReadLine();
             int length = int.Parse(userLength);
             Console.WriteLine(WordSearch(wordList,length));
-
-            Dictionary<int, string> studentIds = new Dictionary<int, string>
-            {
-                {1,"Mike" },
-                {2,"Bella" },
-                {3,"Sophia" }
-            };
-            PrintStudentIds(studentIds);
         }
 
         public static int EvenSum(List<int> numlist)
@@ -52,14 +44,6 @@ namespace ListPractice
                 }
             }
             return wordOutput;
-        }
-
-        public static void PrintStudentIds(Dictionary<int,string> studentIds)
-        {
-            foreach (KeyValuePair<int,string> id in studentIds)
-            {
-                Console.WriteLine(id.Value + "(ID=" + id.Key + ")");
-            }
         }
     }
 }
