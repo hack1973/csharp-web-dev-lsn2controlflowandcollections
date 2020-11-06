@@ -12,13 +12,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryExercises", "Dict
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListGradebook", "ListGradebook\ListGradebook.csproj", "{9E623FA0-8E7E-4842-AD6E-37B48C67AD74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayPractice", "ArrayPractice\ArrayPractice.csproj", "{576F4842-1B0D-4433-B6CA-ED93CED05026}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayPractice", "ArrayPractice\ArrayPractice.csproj", "{576F4842-1B0D-4433-B6CA-ED93CED05026}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPractice", "StringPractice\StringPractice.csproj", "{3C05C6BF-B14C-4A7B-986A-5E2CB6248545}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringPractice", "StringPractice\StringPractice.csproj", "{3C05C6BF-B14C-4A7B-986A-5E2CB6248545}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPractice", "ListPractice\ListPractice.csproj", "{387C7FB9-40CA-4805-945C-820E0254A884}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListPractice", "ListPractice\ListPractice.csproj", "{387C7FB9-40CA-4805-945C-820E0254A884}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryPractice", "Dictionary Practice\DictionaryPractice.csproj", "{95A19F19-FFF3-434E-91DD-AB5B32543C64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryPractice", "Dictionary Practice\DictionaryPractice.csproj", "{95A19F19-FFF3-434E-91DD-AB5B32543C64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayPractice2", "ArrayPractice2\ArrayPractice2.csproj", "{B23D7C53-4822-498C-B71D-FCCCF983EFA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPractice2", "StringPractice2\StringPractice2.csproj", "{02F2CBCA-D674-4770-BF6C-4B093711102A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPractice2", "ListPractice2\ListPractice2.csproj", "{1A95EA71-9966-4132-865B-E5EC2FFE4564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryPractice2", "DictionaryPractice2\DictionaryPractice2.csproj", "{899696DA-29C1-45DE-A837-35AFA5674888}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +70,22 @@ Global
 		{95A19F19-FFF3-434E-91DD-AB5B32543C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95A19F19-FFF3-434E-91DD-AB5B32543C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95A19F19-FFF3-434E-91DD-AB5B32543C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23D7C53-4822-498C-B71D-FCCCF983EFA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23D7C53-4822-498C-B71D-FCCCF983EFA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23D7C53-4822-498C-B71D-FCCCF983EFA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23D7C53-4822-498C-B71D-FCCCF983EFA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F2CBCA-D674-4770-BF6C-4B093711102A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F2CBCA-D674-4770-BF6C-4B093711102A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F2CBCA-D674-4770-BF6C-4B093711102A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F2CBCA-D674-4770-BF6C-4B093711102A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A95EA71-9966-4132-865B-E5EC2FFE4564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A95EA71-9966-4132-865B-E5EC2FFE4564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A95EA71-9966-4132-865B-E5EC2FFE4564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A95EA71-9966-4132-865B-E5EC2FFE4564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899696DA-29C1-45DE-A837-35AFA5674888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899696DA-29C1-45DE-A837-35AFA5674888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899696DA-29C1-45DE-A837-35AFA5674888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899696DA-29C1-45DE-A837-35AFA5674888}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
